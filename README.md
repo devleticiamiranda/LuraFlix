@@ -48,7 +48,7 @@ https://vermillion-gaufre-46b8d1.netlify.app/
 
 **📁 Repositório:**
 
-https://github.com/leticiamirandacode/LuraFlix
+https://github.com/devleticiamiranda/LuraFlix
 
 
 ## 💡 Considerações finais
